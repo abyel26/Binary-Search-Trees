@@ -25,11 +25,10 @@ It runs on a  2.7 GHz Intel Core i5, 8GB RAM Macbook Pro.
 *  How to build and run the assignment
 ******************************************************* 		
 
-1. Uncompress the homework.  The homework file is compressed.  
-   To uncompress it use the following commands 
+1. Uncompress the project. To uncompress it use the following commands 
        % unzip [RomeroFinal]
 
-   Now you should see a directory named homework with the files:
+   Now you should see a directory with the files:
 	main.cpp
 	ActorActress.h
 	ActorActressNode.h
