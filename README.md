@@ -11,7 +11,7 @@
 *******************************************************
 *  Description of the program
 *******************************************************
-The program implements two binary search trees of objects. The first bst reads a dataset for the pictures object which contains different info of movies from the last century. The second bst reads a dataset for the actor and actress object which shows many actors and actresses from a few years and parameters if they won an Oscar, etc. Both bsts contain basic functions for read, write, search, sort, and delete. 
+The program implements two binary search trees. The first bst reads a dataset for the pictures object which contains different info of movies from the last century. The second bst reads a dataset for the actor and actress object which shows many actors and actresses from a few years and parameters if they won an Oscar, etc. Both bsts contain basic functions for read, write, search, sort, and delete. 
 
 
 *******************************************************
